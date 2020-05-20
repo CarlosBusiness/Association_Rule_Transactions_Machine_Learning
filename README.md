@@ -9,7 +9,8 @@
 
 ###### I have listed instructions and reasoning for each step that I take below, so please follow along throughout the entire notebook.
 
-###### Enjoy and be sure to visit my GitHub page: github.com/CarlosBusiness
+###### Enjoy and be sure to visit my GitHub page: 
+- ##### github.com/CarlosBusiness
 
 ###### Contact Information:
 - ###### Linkedin: www.linkedin.com/in/CarlosJonesData
