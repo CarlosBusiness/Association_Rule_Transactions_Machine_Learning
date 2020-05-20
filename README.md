@@ -12,6 +12,6 @@
 ###### Enjoy and be sure to visit my GitHub page: github.com/CarlosBusiness
 
 ###### Contact Information:
-- LinkedIN: www.linkedin.com/in/CarlosJonesData
-- Twitter: Los The Scientist
-- Email: carlosjones.business@gmail.com
+- ###### Linkedin: www.linkedin.com/in/CarlosJonesData
+- ###### Twitter: Los The Scientist
+- ###### Email: carlosjones.business@gmail.com
