@@ -1,4 +1,4 @@
-# Grocery-Rule-Based-Machine-Learning
+# Grocery-Rule-Based-Machine-Learning-In-Python
 ###### Welcome Everyone!
 
 ###### My name is Carlos Jones and today I am showing how to do analysis on Unsupervised data using an ruled based Machine Learning algorithm called Association Rule.
