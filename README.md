@@ -11,10 +11,7 @@ In this notebook, I am looking at a small Dataset consisting of 20 transactions 
 Please let me know if you have any questions and connect with me on the following platforms:
 
 
-Contact Information:
-
-
-* github.com/CarlosBusiness
+* www.github.com/CarlosBusiness
 * Linkedin: www.linkedin.com/in/CarlosJonesData
 * Twitter: Los The Scientist
 * Email: carlosjones.business@gmail.com
