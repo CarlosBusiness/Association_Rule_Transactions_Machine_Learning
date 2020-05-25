@@ -14,7 +14,7 @@ Please let me know if you have any questions and connect with me on the followin
 Contact Information:
 
 
-github.com/CarlosBusiness
-Linkedin: www.linkedin.com/in/CarlosJonesData
-Twitter: Los The Scientist
-Email: carlosjones.business@gmail.com
+* github.com/CarlosBusiness
+* Linkedin: www.linkedin.com/in/CarlosJonesData
+* Twitter: Los The Scientist
+* Email: carlosjones.business@gmail.com
