@@ -1,18 +1,22 @@
-# Grocery-Rule-Based-Machine-Learning-In-Python
-###### Welcome Everyone!
+# Association Analysis of Supermarket Transactions Using Machine Learning
 
-###### My name is Carlos Jones and today I am showing how to do analysis on Unsupervised data using an ruled based Machine Learning algorithm called Association Rule.
+My goal is to provide a list of items that are purchased together, how often they are purchased together, and how confident I am that they will be purchased together.
 
-###### In this notebook, I am looking at a small Dataset consisting of 20 transactions from a supermarket. My goal is to provide a list of items that are purchased together, how often they are purchased together, and how confident I am that they will be purchased together.
+In this notebook, I am looking at a small Dataset consisting of 20 transactions from a supermarket and looking to apply two Machine Learning algorithm rules called Apriori Rule and Association Rule. With these rules, I will be able to find the Support (frequency) that each item is bought, the Confidence that I have in an item being bought given that a previous item is bought, and the Lift (strength of my Confidence) for each itemset.
 
-###### In order to do this, I will apply two Machine Learning algorithm rules called Apriori Rule and Association Rule. With these rules, I will be able to find the Support (frequency) that each item is bought, the Confidence that I have in an item being bought given that a previous item is bought, and the Lift (strength of my Confidence) for each itemset.
+* Title - Association Analysis of Supermarket Transactions
+* Goal - To provide a list that show what items were purchased together, how often they were purchased together, and how confident i am that they will be purchased together in the future
+* Variables - Gender, Age, Annual Income, Spending Score
+* Technologies – Python (Jupyter Notebook)
 
-###### I have listed instructions and reasoning for each step that I take below, so please follow along throughout the entire notebook.
 
-###### Enjoy and be sure to visit my GitHub page: 
-- ##### github.com/CarlosBusiness
+Please let me know if you have any questions and connect with me on the following platforms:
 
-###### Contact Information:
-- ###### Linkedin: www.linkedin.com/in/CarlosJonesData
-- ###### Twitter: Los The Scientist
-- ###### Email: carlosjones.business@gmail.com
+
+Contact Information:
+
+
+github.com/CarlosBusiness
+Linkedin: www.linkedin.com/in/CarlosJonesData
+Twitter: Los The Scientist
+Email: carlosjones.business@gmail.com
