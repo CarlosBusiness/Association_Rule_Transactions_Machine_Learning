@@ -4,7 +4,7 @@ In this notebook, I am looking at a small Dataset consisting of 20 transactions 
 
 * Title - Association Analysis of Supermarket Transactions
 * Goal - To provide a list that show what items were purchased together, how often they were purchased together, and how confident i am that they will be purchased together in the future
-* Variables - Gender, Age, Annual Income, Spending Score
+* Technique - Association Rule & Apriori Rule
 * Technologies – Python (Jupyter Notebook)
 
 
